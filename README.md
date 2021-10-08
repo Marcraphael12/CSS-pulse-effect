@@ -9,4 +9,5 @@ In this little project, i'm implementing what i learned with CSS animations. It'
 
 Free for who need to use it 🤗 <br>
 
-Encourage with a ⭐⭐⭐
+Made with HTML&CSS
+Encourage me by just giving a ⭐
